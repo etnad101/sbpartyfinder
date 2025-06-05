@@ -1,0 +1,4 @@
+package sbpartyfinder
+
+func main() {
+}
